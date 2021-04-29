@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7358d701-077d-4d63-9062-841ad9af9c06" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1WpoBUiJsczJ3lYpHBbkUoDmBmq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.lang.actions.generation.PhpGenerateFieldAccessorHandlerBase$MyMemberChooser.fluent.setters.last.selected" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PHPoo\bibliotheque" />
+      <recent name="C:\xampp\htdocs\PHPoo\trait" />
+      <recent name="C:\xampp\htdocs\PHPoo\exception" />
+      <recent name="C:\xampp\htdocs\PHPoo\heritage" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7358d701-077d-4d63-9062-841ad9af9c06" name="Default Changelist" comment="" />
+      <created>1579855761136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579855761136</updated>
+      <workItem from="1579855762563" duration="83611000" />
+      <workItem from="1580655900838" duration="583000" />
+      <workItem from="1581630110799" duration="1686000" />
+      <workItem from="1581718913370" duration="2131000" />
+      <workItem from="1581754387543" duration="863000" />
+      <workItem from="1581775115780" duration="3026000" />
+      <workItem from="1581840731554" duration="595000" />
+      <workItem from="1581856463722" duration="596000" />
+      <workItem from="1582097167637" duration="605000" />
+      <workItem from="1582153376991" duration="1788000" />
+      <workItem from="1582185437935" duration="1230000" />
+      <workItem from="1582229024776" duration="1270000" />
+      <workItem from="1582272283380" duration="640000" />
+      <workItem from="1582314719142" duration="1462000" />
+      <workItem from="1582377139409" duration="1716000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="713" y="168" key="#com.intellij.ide.util.MemberChooser" timestamp="1580312241597">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="168" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580312241597" />
+    <state x="491" y="131" key="FileChooserDialogImpl" timestamp="1582316323998">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="491" y="131" key="FileChooserDialogImpl/0.0.1366.736/-325.-1080.1280.689@0.0.1366.736" timestamp="1582316323998" />
+    <state x="491" y="131" key="FileChooserDialogImpl/0.0.1366.736@0.0.1366.736" timestamp="1582190490549" />
+    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580137188806" />
+    <state x="2610" y="218" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580136671821" />
+    <state x="737" y="294" key="NewPhpClassDialog" timestamp="1580312126328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="737" y="294" key="NewPhpClassDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580312126328" />
+    <state x="1064" y="136" key="NewPhpFileDialog" timestamp="1580309160063">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1064" y="136" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580309160063" />
+    <state x="151" y="0" key="SettingsEditor" timestamp="1581802648599">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="151" y="0" key="SettingsEditor/0.0.1366.736/-325.-1080.1280.689@0.0.1366.736" timestamp="1581802648599" />
+    <state x="352" y="77" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580289979606" />
+    <state x="314" y="150" key="com.intellij.ide.util.TipDialog" timestamp="1582272307527">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="314" y="150" key="com.intellij.ide.util.TipDialog/0.0.1366.736/-325.-1080.1280.689@0.0.1366.736" timestamp="1582272307527" />
+    <state x="314" y="150" key="com.intellij.ide.util.TipDialog/0.0.1366.736@0.0.1366.736" timestamp="1581718915241" />
+    <state x="594" y="14" width="731" height="1011" key="find.popup" timestamp="1580227063777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="594" y="14" width="731" height="1011" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580227063777" />
+  </component>
+</project>

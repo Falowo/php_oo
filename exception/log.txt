@@ -1,0 +1,165 @@
+[2020-01-29 12:35:17]C:\xampp\htdocs\PHPoo\exception\Member.php line 29 Ce prénom est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(39): Member->setFirstname('Jean-Thierry-Ma...')
+#1 {main}
+[2020-01-29 12:47:02]C:\xampp\htdocs\PHPoo\exception\Member.php line 29 Ce prénom est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(39): Member->setFirstname('Jean-Thierry-Ma...')
+#1 {main}
+[2020-01-29 12:48:43]C:\xampp\htdocs\PHPoo\exception\Member.php line 29 Le prénom "Jean-Thierry-Marcel-Benoît-Gerrard" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(39): Member->setFirstname('Jean-Thierry-Ma...')
+#1 {main}
+[2020-01-29 13:03:33]C:\xampp\htdocs\PHPoo\exception\Member.php line 35 Le prénom "Jean-Thierry-Marcel-Benoît-Gerrard" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(39): Member->setFirstname('Jean-Thierry-Ma...')
+#1 {main}
+[2020-01-29 13:03:40]C:\xampp\htdocs\PHPoo\exception\Member.php line 35 Le prénom "Jean-Thierry-Marcel-Benoît-Gerrard" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(39): Member->setFirstname('Jean-Thierry-Ma...')
+#1 {main}
+[2020-01-29 13:03:40]C:\xampp\htdocs\PHPoo\exception\Member.php line 59 Un nom ne peut pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(53): Member->setLastname('16')
+#1 {main}
+[2020-01-29 13:06:36]C:\xampp\htdocs\PHPoo\exception\Member.php line 35 Le prénom "Jean-Thierry-Marcel-Benoît-Gerrard" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(39): Member->setFirstname('Jean-Thierry-Ma...')
+#1 {main}
+[2020-01-29 13:06:36]C:\xampp\htdocs\PHPoo\exception\Member.php line 59 Un nom ne peut pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(53): Member->setLastname('16')
+#1 {main}
+[2020-01-29 13:06:36]C:\xampp\htdocs\PHPoo\exception\Member.php line 59 Un nom ne peut pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(65): Member->setLastname('16')
+#1 {main}
+[2020-01-29 13:07:24]C:\xampp\htdocs\PHPoo\exception\Member.php line 35 Le prénom "Jean-Thierry-Marcel-Benoît-Gerrard" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(39): Member->setFirstname('Jean-Thierry-Ma...')
+#1 {main}
+[2020-01-29 13:07:24]C:\xampp\htdocs\PHPoo\exception\Member.php line 59 Un nom ne peut pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(53): Member->setLastname('16')
+#1 {main}
+[2020-01-29 13:07:24]C:\xampp\htdocs\PHPoo\exception\Member.php line 59 Un nom ne peut pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(65): Member->setLastname('16')
+#1 {main}
+[2020-01-29 13:07:35]C:\xampp\htdocs\PHPoo\exception\Member.php line 35 Le prénom "Jean-Thierry-Marcel-Benoît-Gerrard" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(39): Member->setFirstname('Jean-Thierry-Ma...')
+#1 {main}
+[2020-01-29 13:07:35]C:\xampp\htdocs\PHPoo\exception\Member.php line 59 Un nom ne peut pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(53): Member->setLastname('16')
+#1 {main}
+[2020-01-29 13:07:35]C:\xampp\htdocs\PHPoo\exception\Member.php line 59 Un nom ne peut pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(65): Member->setLastname('16')
+#1 {main}
+[2020-01-29 13:07:35]C:\xampp\htdocs\PHPoo\exception\Member.php line 35 Le prénom "LouisLouisLouisLouisLouisLouisLouisLouisLouis" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(78): Member->setFirstname('LouisLouisLouis...')
+#1 {main}
+[2020-01-29 14:32:00]C:\xampp\htdocs\PHPoo\exception\Member.php line 45 Le prénom "Jean-Thierry-Marcel-Benoît-Gerrard" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(39): Member->setFirstname('Jean-Thierry-Ma...')
+#1 {main}
+[2020-01-29 14:32:00]C:\xampp\htdocs\PHPoo\exception\Member.php line 69 Un nom ne peut pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(53): Member->setLastname('16')
+#1 {main}
+[2020-01-29 14:32:00]C:\xampp\htdocs\PHPoo\exception\Member.php line 69 Un nom ne peut pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(65): Member->setLastname('16')
+#1 {main}
+[2020-01-29 14:32:00]C:\xampp\htdocs\PHPoo\exception\Member.php line 45 Le prénom "LouisLouisLouisLouisLouisLouisLouisLouisLouis" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(80): Member->setFirstname('LouisLouisLouis...')
+#1 {main}
+[2020-01-29 14:32:00]C:\xampp\htdocs\PHPoo\exception\Member.php line 92 Seules les civilités Monsieur, Madame sont acceptées
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(96): Member->setCivility('Mademoiselle')
+#1 {main}
+[2020-01-29 14:35:58]C:\xampp\htdocs\PHPoo\exception\Member.php line 45 Le prénom "Jean-Thierry-Marcel-Benoît-Gerrard" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(39): Member->setFirstname('Jean-Thierry-Ma...')
+#1 {main}
+[2020-01-29 14:35:58]C:\xampp\htdocs\PHPoo\exception\Member.php line 69 Un nom ne peut pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(53): Member->setLastname('16')
+#1 {main}
+[2020-01-29 14:35:58]C:\xampp\htdocs\PHPoo\exception\Member.php line 69 Un nom ne peut pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(65): Member->setLastname('16')
+#1 {main}
+[2020-01-29 14:35:58]C:\xampp\htdocs\PHPoo\exception\Member.php line 45 Le prénom "LouisLouisLouisLouisLouisLouisLouisLouisLouis" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(80): Member->setFirstname('LouisLouisLouis...')
+#1 {main}
+[2020-01-29 14:35:58]C:\xampp\htdocs\PHPoo\exception\Member.php line 92 Seules les civilités Monsieur, Madame sont acceptées
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(96): Member->setCivility('Mademoiselle')
+#1 {main}
+[2020-01-29 14:37:28]C:\xampp\htdocs\PHPoo\exception\Member.php line 45 Le prénom "Jean-Thierry-Marcel-Benoît-Gerrard" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(39): Member->setFirstname('Jean-Thierry-Ma...')
+#1 {main}
+[2020-01-29 14:37:28]C:\xampp\htdocs\PHPoo\exception\Member.php line 69 Un nom ne peut pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(53): Member->setLastname('16')
+#1 {main}
+[2020-01-29 14:37:28]C:\xampp\htdocs\PHPoo\exception\Member.php line 69 Un nom ne peut pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(65): Member->setLastname('16')
+#1 {main}
+[2020-01-29 14:37:28]C:\xampp\htdocs\PHPoo\exception\Member.php line 45 Le prénom "LouisLouisLouisLouisLouisLouisLouisLouisLouis" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(80): Member->setFirstname('LouisLouisLouis...')
+#1 {main}
+[2020-01-29 14:37:28]C:\xampp\htdocs\PHPoo\exception\Member.php line 92 Seules les civilités Monsieur, Madame sont acceptées
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(96): Member->setCivility('Mademoiselle')
+#1 {main}
+[2020-01-29 14:37:50]C:\xampp\htdocs\PHPoo\exception\Member.php line 45 Le prénom "Jean-Thierry-Marcel-Benoît-Gerrard" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(39): Member->setFirstname('Jean-Thierry-Ma...')
+#1 {main}
+[2020-01-29 14:37:50]C:\xampp\htdocs\PHPoo\exception\Member.php line 69 Un nom ne peut pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(53): Member->setLastname('16')
+#1 {main}
+[2020-01-29 14:37:50]C:\xampp\htdocs\PHPoo\exception\Member.php line 69 Un nom ne peut pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(65): Member->setLastname('16')
+#1 {main}
+[2020-01-29 14:37:50]C:\xampp\htdocs\PHPoo\exception\Member.php line 45 Le prénom "LouisLouisLouisLouisLouisLouisLouisLouisLouis" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(80): Member->setFirstname('LouisLouisLouis...')
+#1 {main}
+[2020-01-29 14:37:50]C:\xampp\htdocs\PHPoo\exception\Member.php line 92 Seules les civilités Monsieur, Madame sont acceptées
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(96): Member->setCivility('Mademoiselle')
+#1 {main}
+[2020-01-29 14:47:49]C:\xampp\htdocs\PHPoo\exception\Member.php line 45 Le prénom "Jean-Thierry-Marcel-Benoît-Gerrard" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(39): Member->setFirstname('Jean-Thierry-Ma...')
+#1 {main}
+[2020-01-29 14:47:49]C:\xampp\htdocs\PHPoo\exception\Member.php line 69 Un nom ne peut pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(53): Member->setLastname('16')
+#1 {main}
+[2020-01-29 14:47:49]C:\xampp\htdocs\PHPoo\exception\Member.php line 69 Un nom ne peut pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(65): Member->setLastname('16')
+#1 {main}
+[2020-01-29 14:47:49]C:\xampp\htdocs\PHPoo\exception\Member.php line 45 Le prénom "LouisLouisLouisLouisLouisLouisLouisLouisLouis" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(80): Member->setFirstname('LouisLouisLouis...')
+#1 {main}
+[2020-01-29 14:47:49]C:\xampp\htdocs\PHPoo\exception\Member.php line 92 Seules les civilités Monsieur, Madame sont acceptées
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(96): Member->setCivility('Mademoiselle')
+#1 {main}
+[2020-01-29 14:48:05]C:\xampp\htdocs\PHPoo\exception\Member.php line 45 Le prénom "Jean-Thierry-Marcel-Benoît-Gerrard" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(39): Member->setFirstname('Jean-Thierry-Ma...')
+#1 {main}
+[2020-01-29 14:48:05]C:\xampp\htdocs\PHPoo\exception\Member.php line 69 Un nom ne peut pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(53): Member->setLastname('16')
+#1 {main}
+[2020-01-29 14:48:05]C:\xampp\htdocs\PHPoo\exception\Member.php line 69 Un nom ne peut pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(65): Member->setLastname('16')
+#1 {main}
+[2020-01-29 14:48:05]C:\xampp\htdocs\PHPoo\exception\Member.php line 45 Le prénom "LouisLouisLouisLouisLouisLouisLouisLouisLouis" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(80): Member->setFirstname('LouisLouisLouis...')
+#1 {main}
+[2020-01-29 14:48:05]C:\xampp\htdocs\PHPoo\exception\Member.php line 92 Seules les civilités Monsieur, Madame sont acceptées
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(96): Member->setCivility('Mademoiselle')
+#1 {main}
+[2020-01-29 14:48:05]C:\xampp\htdocs\PHPoo\exception\Member.php line 45 Le prénom "azertyazertyazertyazertyazertyazertyazerty" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(119): Member->setFirstname('azertyazertyaze...')
+#1 {main}
+[2020-01-29 14:48:05]C:\xampp\htdocs\PHPoo\exception\Member.php line 42 Argument 1 passed to Member::setFirstname() must be of the type string, array given, called in C:\xampp\htdocs\PHPoo\exception\index.php on line 126
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(126): Member->setFirstname(Array)
+#1 {main}
+[2020-01-29 14:51:42]C:\xampp\htdocs\PHPoo\exception\Member.php line 45 Le prénom "Jean-Thierry-Marcel-Benoît-Gerrard" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(39): Member->setFirstname('Jean-Thierry-Ma...')
+#1 {main}
+[2020-01-29 14:51:42]C:\xampp\htdocs\PHPoo\exception\Member.php line 69 Un nom ne peut pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(53): Member->setLastname('16')
+#1 {main}
+[2020-01-29 14:51:42]C:\xampp\htdocs\PHPoo\exception\Member.php line 69 Un nom ne peut pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(65): Member->setLastname('16')
+#1 {main}
+[2020-01-29 14:51:42]C:\xampp\htdocs\PHPoo\exception\Member.php line 45 Le prénom "LouisLouisLouisLouisLouisLouisLouisLouisLouis" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(80): Member->setFirstname('LouisLouisLouis...')
+#1 {main}
+[2020-01-29 14:51:42]C:\xampp\htdocs\PHPoo\exception\Member.php line 92 Seules les civilités Monsieur, Madame sont acceptées
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(96): Member->setCivility('Mademoiselle')
+#1 {main}
+[2020-01-29 14:51:42]C:\xampp\htdocs\PHPoo\exception\Member.php line 45 Le prénom "azertyazertyazertyazertyazertyazertyazerty" est trop long
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(119): Member->setFirstname('azertyazertyaze...')
+#1 {main}
+[2020-01-29 14:51:42]C:\xampp\htdocs\PHPoo\exception\Member.php line 42 Argument 1 passed to Member::setFirstname() must be of the type string, array given, called in C:\xampp\htdocs\PHPoo\exception\index.php on line 126
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(126): Member->setFirstname(Array)
+#1 {main}
